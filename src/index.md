@@ -404,6 +404,7 @@ page_id: home
       {% used_by_logo Universidad Autónoma de Occdiente; /images/logos/UAO_ogo.png; https://www.uao.edu.co %}
       {% used_by_logo Lehigh University; /images/logos/lehigh.jpg; https://lehigh.edu/ %}
       {% used_by_logo TU Delft; /images/logos/TUDelft.png; https://www.tudelft.nl/en/ %}
+      {% used_by_logo University of Patras; /images/logos/UPatras.png; https://www.upatras.gr/en/ %}
 
     </div>
     <div class="row">
